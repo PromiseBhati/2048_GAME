@@ -51,7 +51,7 @@ div#score {
 /* instructions subheader */
 p#instructions {
     position: relative;
-    float: left;
+    text-align:center;
 }
 
 /* bolded 2048 in instructions */
